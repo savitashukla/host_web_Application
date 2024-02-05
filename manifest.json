@@ -1,6 +1,6 @@
 {
-    "name": "check_web_firebase",
-    "short_name": "check_web_firebase",
+    "name": "check_again",
+    "short_name": "check_again",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
